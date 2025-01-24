@@ -1,1 +1,1 @@
-# grid-experiment-1
+Hi there. This is the first of a series in which i will be practicing css grid. i have had a problem using css Grid for a while now but i have finally gotten it. I did the same layout twice. The first using grid-template-column and the second using grid-template-areas. Thanks for viewing
